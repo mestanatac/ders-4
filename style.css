@@ -1,0 +1,45 @@
+.üst-kare {
+width: 100;
+height: 500px;
+border:1px solid black;
+display: flex;
+align-items: center;
+justify-content: space-around;
+background-color:yellow;
+
+}
+
+.orta-kare{
+
+width: 150px;
+height: 150px;
+border:1px solid white;
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: gray;
+border-radius:50%;
+
+}
+
+.küçük-kare{
+
+height: 50px;
+width: 50px;
+border: 1px solid white;
+border-radius:50%;
+background-color: black;
+}
+
+.burun{
+
+font-weight: 100;
+height: 35px;
+border: 1px; scrollbar-width:30px;
+display: flex;
+background-color: blue;
+
+}
+
+
+
